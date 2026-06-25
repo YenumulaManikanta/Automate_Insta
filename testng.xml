@@ -1,0 +1,9 @@
+<suite name="Suite" parallel="classes" thread-count="2">
+
+  <test name="IgAutomateTest">
+    <classes>
+      <class name="tests.IgAutomateTest"/>
+    </classes>
+  </test>
+
+</suite>
